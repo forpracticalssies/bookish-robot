@@ -17,3 +17,5 @@ I just wanna keep moving
 This is the line that will bring conflict from the master branch
 
 This is the line that I added while working on the child branch
+
+This is the line that I am editing through GitHub
