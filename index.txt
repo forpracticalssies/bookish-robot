@@ -21,3 +21,5 @@ This is the line that I added while working on the child branch
 This is the line that I am editing through GitHub
 
 Pull is a combination of fetch and merge command
+
+Pushing the changes to the remote origin
