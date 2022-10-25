@@ -23,3 +23,5 @@ This is the line that I am editing through GitHub
 Pull is a combination of fetch and merge command
 
 Pushing the changes to the remote origin
+
+This change is being made from a new branch that I created using GitHub
